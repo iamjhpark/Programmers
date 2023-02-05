@@ -1,1 +1,1 @@
-const solution = (strlist) => strlist.map((str) => str.length);
+const solution = (strlist) => strlist.map((str) => str.length); 
